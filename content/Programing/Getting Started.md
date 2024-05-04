@@ -5,7 +5,7 @@ tags:
   - start-here
 ---
 # Getting Started With Programming
-The goal of this article is to get a New Student (Or Mentor!) started with the programming tools offered by FIRST and the way that we as a team operate when programming a robot. 
+The goal of this article is to get a New Student (Or Mentor!) started with the programming tools offered by FIRST and the way that we, as a team, operate when programming a robot. 
 
 # Tools
 All the tools we need to download and install are linked in the table below. 
